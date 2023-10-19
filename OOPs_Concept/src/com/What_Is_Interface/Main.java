@@ -3,6 +3,7 @@ package com.What_Is_Interface;
 public class Main {
 public static void main(String[] args) {
 	//By creating object of class.
+	
 //	DrawCircle dc = new DrawCircle();
 //	dc.draw();
 //	

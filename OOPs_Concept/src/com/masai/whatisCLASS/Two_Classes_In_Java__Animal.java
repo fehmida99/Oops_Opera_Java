@@ -1,4 +1,4 @@
-package com.masai;
+package com.masai.whatisCLASS;
 
 public class Two_Classes_In_Java__Animal {
 //We can encapsulate multiple instance variables within a single class to form a java bean. However, we can modify the access specifiers to ensure; no one can use the class properties directly.

@@ -1,4 +1,4 @@
-package com.masai;
+package com.masai.whatisCLASS;
 
 public class Dog extends Two_Classes_In_Java__Animal{
 

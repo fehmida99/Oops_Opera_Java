@@ -1,4 +1,4 @@
-package com.masai;
+package com.masai.whatisCLASS;
 
 public class Bank {
 private float amount ;

@@ -1,4 +1,4 @@
-package com.masai;
+package com.masai.whatisCLASS;
 
 public class What_Is_Class {
 /*A class is a blueprint or template in object-oriented programming that defines the properties and behaviors of objects. It serves as a structure for creating objects with specific characteristics and functionalities.

@@ -1,4 +1,4 @@
-package com.Multiple_Inheritance;
+package com.Multiple_Interface;
 
 public interface Drawable {
 
